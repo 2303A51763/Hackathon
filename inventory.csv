@@ -1,0 +1,4 @@
+name,batch,quantity,status,location
+Metformin,B100,385,Consumed,Warehouse B
+Lisinopril,B101,22,Shipped,Warehouse B
+Metformin,B102,271,Delivered,Hospital B

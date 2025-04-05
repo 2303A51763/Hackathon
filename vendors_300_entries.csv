@@ -1,0 +1,301 @@
+vendor,drug,shipment_date,status
+CareWell,Metformin,2025-03-19,Pending
+XYZ Meds,Omeprazole,2025-03-26,Pending
+MediCorp,Amoxicillin,2025-03-10,In Transit
+CareWell,Amlodipine,2025-03-09,In Transit
+ABC Pharma,Atorvastatin,2025-02-27,Delivered
+ABC Pharma,Omeprazole,2025-02-22,In Transit
+ABC Pharma,Metformin,2025-02-11,In Transit
+CareWell,Ciprofloxacin,2025-02-09,Delivered
+ABC Pharma,Lisinopril,2025-02-05,Delivered
+ABC Pharma,Atorvastatin,2025-03-13,Delivered
+XYZ Meds,Paracetamol,2025-02-08,In Transit
+ABC Pharma,Lisinopril,2025-02-18,Pending
+ABC Pharma,Amlodipine,2025-03-12,Delivered
+XYZ Meds,Lisinopril,2025-03-28,In Transit
+ABC Pharma,Lisinopril,2025-03-03,Pending
+CareWell,Azithromycin,2025-03-04,In Transit
+XYZ Meds,Amlodipine,2025-03-30,Delivered
+HealthPlus,Lisinopril,2025-03-31,In Transit
+HealthPlus,Amlodipine,2025-02-17,Pending
+CareWell,Lisinopril,2025-03-31,Delivered
+ABC Pharma,Metformin,2025-02-12,Pending
+CareWell,Amlodipine,2025-02-13,Delivered
+CareWell,Metformin,2025-02-06,Delivered
+ABC Pharma,Omeprazole,2025-02-04,Pending
+ABC Pharma,Atorvastatin,2025-03-11,Pending
+XYZ Meds,Paracetamol,2025-03-02,Delivered
+MediCorp,Paracetamol,2025-04-02,Delivered
+CareWell,Omeprazole,2025-03-22,In Transit
+CareWell,Azithromycin,2025-03-13,Delivered
+CareWell,Amlodipine,2025-02-16,In Transit
+HealthPlus,Atorvastatin,2025-02-07,Pending
+HealthPlus,Amoxicillin,2025-03-08,Pending
+XYZ Meds,Atorvastatin,2025-03-29,Pending
+CareWell,Omeprazole,2025-03-08,Delivered
+CareWell,Metformin,2025-03-10,Pending
+MediCorp,Lisinopril,2025-02-28,Delivered
+HealthPlus,Ciprofloxacin,2025-02-18,Pending
+CareWell,Azithromycin,2025-02-16,Pending
+ABC Pharma,Amlodipine,2025-03-13,In Transit
+CareWell,Amoxicillin,2025-02-10,In Transit
+HealthPlus,Paracetamol,2025-03-16,Delivered
+ABC Pharma,Lisinopril,2025-03-11,In Transit
+ABC Pharma,Amlodipine,2025-02-13,In Transit
+MediCorp,Amlodipine,2025-02-11,Pending
+XYZ Meds,Amlodipine,2025-02-19,In Transit
+MediCorp,Azithromycin,2025-02-10,Delivered
+XYZ Meds,Atorvastatin,2025-02-18,In Transit
+CareWell,Ibuprofen,2025-03-06,Delivered
+ABC Pharma,Ciprofloxacin,2025-02-03,In Transit
+HealthPlus,Lisinopril,2025-03-03,In Transit
+ABC Pharma,Paracetamol,2025-03-29,Delivered
+HealthPlus,Paracetamol,2025-02-23,Delivered
+ABC Pharma,Ciprofloxacin,2025-03-14,Delivered
+MediCorp,Amlodipine,2025-03-28,Pending
+CareWell,Paracetamol,2025-02-16,Pending
+HealthPlus,Ciprofloxacin,2025-02-11,In Transit
+MediCorp,Lisinopril,2025-04-01,Delivered
+ABC Pharma,Amoxicillin,2025-03-30,In Transit
+ABC Pharma,Paracetamol,2025-03-28,In Transit
+XYZ Meds,Azithromycin,2025-04-04,Pending
+XYZ Meds,Azithromycin,2025-02-18,In Transit
+XYZ Meds,Ciprofloxacin,2025-02-23,Delivered
+XYZ Meds,Atorvastatin,2025-02-26,Delivered
+ABC Pharma,Ibuprofen,2025-03-20,Delivered
+HealthPlus,Omeprazole,2025-03-15,Pending
+XYZ Meds,Atorvastatin,2025-03-04,In Transit
+XYZ Meds,Paracetamol,2025-03-01,In Transit
+HealthPlus,Ibuprofen,2025-02-27,In Transit
+HealthPlus,Omeprazole,2025-03-27,Delivered
+HealthPlus,Lisinopril,2025-02-09,In Transit
+ABC Pharma,Paracetamol,2025-02-27,Pending
+CareWell,Ibuprofen,2025-02-11,Pending
+CareWell,Atorvastatin,2025-02-25,In Transit
+CareWell,Metformin,2025-02-21,In Transit
+XYZ Meds,Metformin,2025-04-01,Pending
+ABC Pharma,Ciprofloxacin,2025-02-07,Pending
+CareWell,Atorvastatin,2025-03-24,Pending
+HealthPlus,Azithromycin,2025-02-03,Delivered
+MediCorp,Metformin,2025-02-05,In Transit
+ABC Pharma,Amlodipine,2025-02-05,Delivered
+XYZ Meds,Metformin,2025-04-01,Delivered
+HealthPlus,Lisinopril,2025-03-07,In Transit
+ABC Pharma,Atorvastatin,2025-03-29,Delivered
+CareWell,Amoxicillin,2025-02-22,In Transit
+CareWell,Ibuprofen,2025-03-20,Delivered
+CareWell,Amoxicillin,2025-03-08,Delivered
+ABC Pharma,Paracetamol,2025-02-04,In Transit
+HealthPlus,Metformin,2025-02-24,Delivered
+ABC Pharma,Amlodipine,2025-03-07,Pending
+HealthPlus,Amlodipine,2025-03-09,Delivered
+MediCorp,Paracetamol,2025-02-20,In Transit
+HealthPlus,Ciprofloxacin,2025-03-20,Pending
+HealthPlus,Amlodipine,2025-03-14,Pending
+CareWell,Atorvastatin,2025-02-06,Pending
+XYZ Meds,Lisinopril,2025-02-07,Delivered
+ABC Pharma,Azithromycin,2025-03-30,Delivered
+ABC Pharma,Amlodipine,2025-03-26,Pending
+HealthPlus,Paracetamol,2025-03-07,Delivered
+ABC Pharma,Azithromycin,2025-03-22,In Transit
+ABC Pharma,Amlodipine,2025-02-17,Pending
+XYZ Meds,Amlodipine,2025-02-28,In Transit
+XYZ Meds,Ciprofloxacin,2025-03-05,Delivered
+XYZ Meds,Omeprazole,2025-02-23,In Transit
+CareWell,Metformin,2025-02-28,In Transit
+HealthPlus,Lisinopril,2025-02-20,Pending
+HealthPlus,Amoxicillin,2025-02-16,Delivered
+MediCorp,Lisinopril,2025-03-31,Pending
+CareWell,Ciprofloxacin,2025-03-07,In Transit
+XYZ Meds,Amoxicillin,2025-02-24,Delivered
+HealthPlus,Ciprofloxacin,2025-03-06,Pending
+HealthPlus,Ciprofloxacin,2025-03-13,Pending
+ABC Pharma,Paracetamol,2025-02-26,In Transit
+XYZ Meds,Amlodipine,2025-03-25,Delivered
+ABC Pharma,Ibuprofen,2025-03-12,Delivered
+CareWell,Lisinopril,2025-02-10,Pending
+CareWell,Azithromycin,2025-03-26,Pending
+XYZ Meds,Paracetamol,2025-02-05,In Transit
+ABC Pharma,Metformin,2025-03-11,Pending
+HealthPlus,Ibuprofen,2025-02-25,In Transit
+MediCorp,Ibuprofen,2025-03-09,In Transit
+ABC Pharma,Lisinopril,2025-03-23,Delivered
+CareWell,Atorvastatin,2025-02-08,Pending
+ABC Pharma,Ciprofloxacin,2025-02-19,Delivered
+HealthPlus,Lisinopril,2025-02-11,In Transit
+HealthPlus,Atorvastatin,2025-04-03,Pending
+CareWell,Azithromycin,2025-03-11,Delivered
+MediCorp,Azithromycin,2025-03-15,Pending
+HealthPlus,Atorvastatin,2025-04-04,Pending
+ABC Pharma,Paracetamol,2025-03-10,Delivered
+MediCorp,Amoxicillin,2025-03-16,In Transit
+ABC Pharma,Metformin,2025-04-02,Delivered
+CareWell,Ibuprofen,2025-04-04,Pending
+ABC Pharma,Amoxicillin,2025-02-20,Delivered
+ABC Pharma,Amoxicillin,2025-03-13,Pending
+MediCorp,Omeprazole,2025-03-28,Delivered
+XYZ Meds,Paracetamol,2025-03-28,Pending
+ABC Pharma,Ciprofloxacin,2025-02-18,In Transit
+XYZ Meds,Azithromycin,2025-03-29,Pending
+ABC Pharma,Metformin,2025-03-10,Delivered
+MediCorp,Paracetamol,2025-03-17,Delivered
+MediCorp,Lisinopril,2025-02-20,Delivered
+ABC Pharma,Amoxicillin,2025-02-15,In Transit
+ABC Pharma,Omeprazole,2025-04-02,Delivered
+XYZ Meds,Lisinopril,2025-03-12,Pending
+CareWell,Atorvastatin,2025-02-13,Delivered
+CareWell,Amoxicillin,2025-02-04,In Transit
+MediCorp,Lisinopril,2025-03-01,Delivered
+XYZ Meds,Omeprazole,2025-02-11,In Transit
+HealthPlus,Lisinopril,2025-03-05,Pending
+HealthPlus,Amlodipine,2025-02-07,Delivered
+XYZ Meds,Omeprazole,2025-02-27,In Transit
+CareWell,Paracetamol,2025-04-02,Pending
+XYZ Meds,Azithromycin,2025-03-31,Delivered
+CareWell,Lisinopril,2025-03-01,Pending
+CareWell,Azithromycin,2025-02-11,In Transit
+ABC Pharma,Omeprazole,2025-02-09,Delivered
+MediCorp,Metformin,2025-02-14,In Transit
+CareWell,Lisinopril,2025-02-22,Pending
+XYZ Meds,Metformin,2025-02-26,Delivered
+ABC Pharma,Omeprazole,2025-02-06,Delivered
+ABC Pharma,Azithromycin,2025-02-28,Pending
+XYZ Meds,Ciprofloxacin,2025-03-10,Pending
+CareWell,Paracetamol,2025-02-26,Pending
+MediCorp,Paracetamol,2025-02-13,Pending
+ABC Pharma,Azithromycin,2025-02-16,Delivered
+MediCorp,Ciprofloxacin,2025-02-27,Delivered
+HealthPlus,Amlodipine,2025-04-01,Delivered
+MediCorp,Paracetamol,2025-03-24,Pending
+ABC Pharma,Ciprofloxacin,2025-03-09,Pending
+ABC Pharma,Metformin,2025-02-05,Delivered
+ABC Pharma,Ciprofloxacin,2025-02-07,In Transit
+XYZ Meds,Omeprazole,2025-02-08,Delivered
+ABC Pharma,Azithromycin,2025-02-27,In Transit
+XYZ Meds,Amoxicillin,2025-02-19,Pending
+HealthPlus,Atorvastatin,2025-03-26,Pending
+XYZ Meds,Paracetamol,2025-03-12,Pending
+CareWell,Ciprofloxacin,2025-02-07,In Transit
+HealthPlus,Atorvastatin,2025-03-30,Delivered
+HealthPlus,Ciprofloxacin,2025-03-23,In Transit
+CareWell,Azithromycin,2025-02-03,In Transit
+CareWell,Lisinopril,2025-02-19,Delivered
+ABC Pharma,Metformin,2025-03-19,In Transit
+HealthPlus,Lisinopril,2025-02-10,Delivered
+CareWell,Paracetamol,2025-02-24,Pending
+MediCorp,Ibuprofen,2025-03-11,In Transit
+HealthPlus,Omeprazole,2025-03-13,Delivered
+ABC Pharma,Ciprofloxacin,2025-02-19,Pending
+CareWell,Lisinopril,2025-02-19,In Transit
+XYZ Meds,Omeprazole,2025-03-23,In Transit
+MediCorp,Ciprofloxacin,2025-03-17,In Transit
+MediCorp,Ciprofloxacin,2025-02-09,In Transit
+XYZ Meds,Omeprazole,2025-02-06,In Transit
+XYZ Meds,Omeprazole,2025-03-15,Pending
+CareWell,Lisinopril,2025-03-19,Pending
+XYZ Meds,Ciprofloxacin,2025-03-01,Delivered
+CareWell,Omeprazole,2025-03-09,Delivered
+XYZ Meds,Ciprofloxacin,2025-02-21,In Transit
+CareWell,Atorvastatin,2025-03-26,Pending
+ABC Pharma,Ibuprofen,2025-02-13,Delivered
+CareWell,Azithromycin,2025-03-04,In Transit
+ABC Pharma,Amlodipine,2025-03-02,Delivered
+CareWell,Lisinopril,2025-03-30,In Transit
+MediCorp,Ibuprofen,2025-03-04,Pending
+XYZ Meds,Paracetamol,2025-03-15,Pending
+CareWell,Omeprazole,2025-03-25,Pending
+MediCorp,Ibuprofen,2025-03-13,In Transit
+HealthPlus,Azithromycin,2025-03-16,In Transit
+CareWell,Atorvastatin,2025-03-01,Delivered
+MediCorp,Ciprofloxacin,2025-02-10,In Transit
+ABC Pharma,Metformin,2025-03-22,In Transit
+ABC Pharma,Amlodipine,2025-03-04,In Transit
+HealthPlus,Lisinopril,2025-03-12,Delivered
+ABC Pharma,Lisinopril,2025-02-23,Delivered
+HealthPlus,Ciprofloxacin,2025-03-17,Delivered
+CareWell,Atorvastatin,2025-04-02,In Transit
+ABC Pharma,Azithromycin,2025-03-12,Pending
+HealthPlus,Amlodipine,2025-03-01,In Transit
+ABC Pharma,Paracetamol,2025-02-26,Delivered
+XYZ Meds,Amlodipine,2025-03-22,Pending
+XYZ Meds,Atorvastatin,2025-03-08,Delivered
+XYZ Meds,Ibuprofen,2025-03-13,In Transit
+ABC Pharma,Atorvastatin,2025-03-09,In Transit
+XYZ Meds,Omeprazole,2025-03-20,Delivered
+HealthPlus,Ciprofloxacin,2025-02-22,In Transit
+XYZ Meds,Amoxicillin,2025-03-19,In Transit
+MediCorp,Amoxicillin,2025-03-30,Delivered
+CareWell,Azithromycin,2025-03-05,In Transit
+XYZ Meds,Amlodipine,2025-03-04,Pending
+HealthPlus,Ibuprofen,2025-03-25,In Transit
+MediCorp,Paracetamol,2025-02-05,Pending
+MediCorp,Ibuprofen,2025-03-29,Delivered
+MediCorp,Azithromycin,2025-02-21,Delivered
+MediCorp,Ciprofloxacin,2025-03-12,Delivered
+HealthPlus,Azithromycin,2025-03-17,In Transit
+HealthPlus,Atorvastatin,2025-02-27,Delivered
+XYZ Meds,Omeprazole,2025-02-05,Pending
+HealthPlus,Ibuprofen,2025-03-01,Pending
+ABC Pharma,Ciprofloxacin,2025-03-27,Pending
+HealthPlus,Amoxicillin,2025-03-02,Pending
+HealthPlus,Amoxicillin,2025-03-23,Pending
+XYZ Meds,Ibuprofen,2025-02-16,In Transit
+MediCorp,Metformin,2025-02-21,In Transit
+ABC Pharma,Amoxicillin,2025-03-13,Delivered
+MediCorp,Omeprazole,2025-02-23,Pending
+CareWell,Azithromycin,2025-02-22,Delivered
+CareWell,Lisinopril,2025-03-25,In Transit
+CareWell,Atorvastatin,2025-02-16,Delivered
+MediCorp,Ciprofloxacin,2025-02-07,In Transit
+CareWell,Paracetamol,2025-03-20,Delivered
+XYZ Meds,Ciprofloxacin,2025-03-25,Pending
+CareWell,Ciprofloxacin,2025-02-15,Delivered
+ABC Pharma,Omeprazole,2025-03-20,Pending
+CareWell,Ciprofloxacin,2025-02-12,In Transit
+CareWell,Lisinopril,2025-03-04,Pending
+ABC Pharma,Ibuprofen,2025-03-16,Delivered
+CareWell,Azithromycin,2025-04-03,Delivered
+XYZ Meds,Amlodipine,2025-03-31,Delivered
+XYZ Meds,Paracetamol,2025-02-13,In Transit
+CareWell,Atorvastatin,2025-03-20,In Transit
+MediCorp,Lisinopril,2025-03-18,Delivered
+CareWell,Ibuprofen,2025-02-03,In Transit
+ABC Pharma,Paracetamol,2025-04-02,Pending
+HealthPlus,Amoxicillin,2025-03-03,In Transit
+HealthPlus,Ibuprofen,2025-03-11,Delivered
+HealthPlus,Lisinopril,2025-03-07,In Transit
+HealthPlus,Metformin,2025-02-21,Delivered
+MediCorp,Paracetamol,2025-02-22,In Transit
+MediCorp,Amoxicillin,2025-02-27,Delivered
+HealthPlus,Lisinopril,2025-02-21,In Transit
+HealthPlus,Amoxicillin,2025-03-16,Pending
+XYZ Meds,Amlodipine,2025-02-15,Pending
+CareWell,Amlodipine,2025-03-25,Delivered
+CareWell,Ciprofloxacin,2025-02-10,Pending
+ABC Pharma,Metformin,2025-03-02,In Transit
+XYZ Meds,Ibuprofen,2025-02-15,Delivered
+MediCorp,Ibuprofen,2025-02-25,Delivered
+ABC Pharma,Lisinopril,2025-02-12,Pending
+XYZ Meds,Atorvastatin,2025-02-27,Pending
+HealthPlus,Atorvastatin,2025-02-18,Pending
+MediCorp,Lisinopril,2025-03-11,In Transit
+XYZ Meds,Amoxicillin,2025-03-03,Delivered
+CareWell,Azithromycin,2025-03-05,Delivered
+HealthPlus,Metformin,2025-03-10,Pending
+CareWell,Paracetamol,2025-03-03,Delivered
+XYZ Meds,Paracetamol,2025-02-21,Delivered
+XYZ Meds,Ciprofloxacin,2025-03-21,Delivered
+MediCorp,Paracetamol,2025-03-08,In Transit
+CareWell,Ibuprofen,2025-03-02,Pending
+XYZ Meds,Amoxicillin,2025-02-17,Delivered
+CareWell,Ciprofloxacin,2025-02-10,In Transit
+XYZ Meds,Metformin,2025-03-04,Delivered
+MediCorp,Ibuprofen,2025-02-28,Delivered
+MediCorp,Lisinopril,2025-02-24,Delivered
+MediCorp,Atorvastatin,2025-02-10,Delivered
+CareWell,Azithromycin,2025-02-24,Pending
+HealthPlus,Ibuprofen,2025-03-25,Pending
+HealthPlus,Omeprazole,2025-03-24,Pending
+ABC Pharma,Paracetamol,2025-03-24,Delivered
+HealthPlus,Amlodipine,2025-03-09,Delivered
+CareWell,Amoxicillin,2025-04-04,Pending
